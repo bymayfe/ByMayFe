@@ -7,7 +7,7 @@
    <a href="https://steamcommunity.com/id/bymayfe/" target"blank_"><img src="https://img.shields.io/badge/steam%20-171a21.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
 <a href="https://open.spotify.com/user/n7gka8kri7snlyf8mjuu3ct75" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.instagram.com/bymayfe/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="bit.ly/mayfesofficial" target"blank_"><img src="https://img.shields.io/discord/732620018998837418?style=for-the-badge&color=7289da&label=MayFe's Officila&logo=discord"></a>
+<a href="bit.ly/mayfesofficial" target"blank_"><img src="https://img.shields.io/discord/732620018998837418?style=for-the-badge&color=ff69b4&label=MayFe%27s%20Official&logo=discord"></a>
 <a href="https://discord.com/invite/JSvKxPs" target"blank_"><img src="https://img.shields.io/discord/685767837591142404?style=for-the-badge&color=7289da&label=codare&logo=node.js&logoColor=white"></a>
 <img src="https://komarev.com/ghpvc/?username=Furtsy&label=ziyaret%C3%A7i&color=5f13e9" alt="Furtsy"/>
 </p>
