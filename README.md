@@ -8,6 +8,7 @@
 <a href="https://open.spotify.com/user/n7gka8kri7snlyf8mjuu3ct75" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.instagram.com/bymayfe/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="bit.ly/mayfesofficial" target"blank_"><img src="https://img.shields.io/discord/806085066039885834?style=for-the-badge&color=7289da&label=Filminat%C3%B6r&logo=discord"></a>
+<iframe src="https://discord.com/widget?id=732620018998837418&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 <a href="https://discord.com/invite/JSvKxPs" target"blank_"><img src="https://img.shields.io/discord/685767837591142404?style=for-the-badge&color=7289da&label=codare&logo=node.js&logoColor=white"></a>
 <img src="https://komarev.com/ghpvc/?username=Furtsy&label=ziyaret%C3%A7i&color=5f13e9" alt="Furtsy"/>
 </p>
