@@ -9,7 +9,7 @@
 <a href="https://www.instagram.com/bymayfe/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="bit.ly/mayfesofficial" target"blank_"><img src="https://img.shields.io/discord/732620018998837418?style=for-the-badge&color=ff69b4&label=MayFe%27s%20Official&logo=discord"></a>
 <a href="https://discord.com/invite/JSvKxPs" target"blank_"><img src="https://img.shields.io/discord/685767837591142404?style=for-the-badge&color=7289da&label=codare&logo=node.js&logoColor=white"></a>
-<img src="https://komarev.com/ghpvc/?username=ByMayFe&label=visitor&color=5f13e9" alt="ByMayFe"/>
+<img src="https://komarev.com/ghpvc/?username=ByMayFe&label=VISITORS&color=5f13e9" alt="ByMayFe"/>
 </p>
 
 <details align="center">
