@@ -1,6 +1,6 @@
 <h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Heyy, I'm ByMayFe</h2>
 <div align="center">
-    <a href="https://discord.com/users/645296920922947615" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/382612768924368906"></a>
+    <a href="https://discord.com/users/402047297963294730" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/382612768924368906"></a>
 </div>
 
 <h3>My Accounds:</h3>
