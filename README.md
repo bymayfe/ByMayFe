@@ -1,4 +1,4 @@
-<h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Heyy, I'm ByMayFe</h2>
+<!-- <h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Heyy, I'm ByMayFe</h2>
 <div align="center">
     <a href="https://discord.com/users/402047297963294730" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/402047297963294730"></a>
 </div>
@@ -38,3 +38,4 @@
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code> -->
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 </details>
+ -->
