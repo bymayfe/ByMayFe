@@ -2,7 +2,7 @@
 <div align="center">
     <a href="https://discord.com/users/402047297963294730" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/402047297963294730"></a>
 </div>
-<h3>My Accounds:</h3>
+<h3>My Accounts:</h3>
 <p align="center">
    <a href="https://discord.com/users/402047297963294730" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
     <a href="https://github.com/ByMayFe" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
