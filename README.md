@@ -4,11 +4,11 @@
 
 <div align="center">
     <a href="https://discord.com/users/402047297963294730" title="Discord Account">
-        <img src="https://lanyard-profile-readme.vercel.app/api/402047297963294730" height="200" alt="Discord Lanyard"/>
+        <img src="https://lanyard-profile-readme.vercel.app/api/402047297963294730?borderRadius=15px" height="200" alt="Discord Lanyard"/>
     </a>
-    &nbsp;&nbsp; <br>
+    <br><br>
     <a href="https://bymayfe.com/api/spotify/v3/lanyard?userID=100000" title="My Spotify Lanyard">
-        <img src="https://bymayfe.com/api/spotify/v3/lanyard?userID=100000" height="150" alt="Spotify Lanyard"/>
+        <img src="https://bymayfe.com/api/spotify/v3/lanyard?userID=100000&cache=false" height="150" alt="Spotify Lanyard"/>
     </a>
 </div>
 
@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io-badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 </div>
 
