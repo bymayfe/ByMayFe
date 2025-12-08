@@ -32,7 +32,7 @@
 ### 🎵 Currently Vibing To
 
 <a href="https://bymayfe.com">
-  <img src="https://bymayfe.com/api/spotify/v3/lanyard?userID=100000" alt="Spotify Now Playing" />
+  <img src="https://bymayfe.com/api/spotify/v3/lanyard?userID=100000&cache=false" alt="Spotify Now Playing" />
 </a>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Divider" />
